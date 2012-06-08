@@ -1,1 +1,1 @@
-Insert some clever text here.\n
+This is the awesome site for Prestige Animal Hospital\n
